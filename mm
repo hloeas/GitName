@@ -1,7 +1,6 @@
-,,,,,,,,,,,,,,,,,,,,,,
-everybody loves you, baby
-you should trademark your face
-linin' down the block whaaaaaaaaaaaaaaaaat
-  troye sivan
-  one of your girls 
-  
+# команды git
+## работа с репозиторием
+```
+git init
+```
+>создает репозиторий в выбранной папке
